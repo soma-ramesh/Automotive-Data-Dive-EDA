@@ -22,7 +22,7 @@ Welcome to Automotive Data Dive EDA, a project where I explored and analyzed a d
 
 3. **Exploratory Data Analysis:**
    - Visualized univariate distributions using histograms, density plots, and bar charts.
-   - Explored bivariate distributions through scatter plots.
+   - Explored bivariate distributions through scatter plots, Violin plot.
    - Conducted multivariate analysis using heatmaps.
 
 ## Next Steps
