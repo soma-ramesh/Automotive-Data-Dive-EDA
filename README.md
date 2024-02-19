@@ -25,6 +25,13 @@ Welcome to Automotive Data Dive EDA, a project where I explored and analyzed a d
    - Explored bivariate distributions through scatter plots, Violin plot.
    - Conducted multivariate analysis using heatmaps.
 
+   
+## Used Libraries:
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+
 ## Next Steps
 - This project lays the foundation for future predictive analytics endeavors. The identified patterns and relationships can guide further modeling and forecasting.
 
